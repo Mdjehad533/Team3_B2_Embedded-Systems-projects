@@ -1,1 +1,1 @@
-# Embedded_System_project_B2_team3
+# team3_B2_Embedded_System_project
