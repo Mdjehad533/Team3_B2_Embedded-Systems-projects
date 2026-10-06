@@ -1,5 +1,6 @@
-# team3_B2_Embedded_System_project\n
+# team3_B2_Embedded_System_project
 
-Team 3\n
-Md Jehadul Hasan\n
-Md Shahranul Islam\n
+#Team 3 Members\
+
+1. Md Jehadul Hasan\
+2. Md Shahranul Islam
