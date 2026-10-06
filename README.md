@@ -1,4 +1,4 @@
-# team3_B2_Embedded_System_project
+# Team:3_B:2_Embedded_System_project
 
  #Team 3 Members
 
